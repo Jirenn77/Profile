@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Nathaniel Jaso  
 
-💻 **Software Developer** | 🌱 Lifelong Learner | 🚀 Tech Enthusiast 
+💻 **Full Stack Developer** | 📱 Occasional App Builder | 🚀 Tech Enthusiast 
 
 # 💫 About Me:
 ## 🚀 About Me<br>- 🔭 Currently building awesome software solutions  <br>- 🌱 Learning and exploring new technologies  <br>- ⚡ Passionate about clean code, problem-solving, and innovation  <br>- 🎯 Goal: To contribute to impactful projects and grow as a developer 
